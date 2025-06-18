@@ -7,6 +7,6 @@ route:
 receivers:
   - name: 'slack-notifications'
     slack_configs:
-      - api_url: 'https://hooks.slack.com/services/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'
+      - api_url: Place your webhho here
         channel: '#Sri Adithya Sridhar'  # optional, override default channel
         send_resolved: true
