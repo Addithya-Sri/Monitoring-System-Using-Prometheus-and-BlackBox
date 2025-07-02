@@ -49,7 +49,7 @@ Website → Blackbox Exporter → Prometheus → Alertmanager → Slack & Grafan
 
 ### alertmanager.yml
 
-- Configures Alertmanager to send alerts to Slack via the webhook URL.
+- Configures Alertmanager to send alerts to the Slack via the webhook URL.
 
 ### docker-compose.yml
 
